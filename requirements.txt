@@ -1,0 +1,11 @@
+langchain
+torch
+transformers
+sentencepiece
+accelerate
+pdf2image
+pillow
+gradio
+git+https://github.com/huggingface/transformers.git
+git+https://github.com/lm-sys/FastChat.git
+langchain-community
